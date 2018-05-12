@@ -1,0 +1,27 @@
+_repo: Het-Nut-der-Mechanistische-Methode-in-de-Geneeskunde_15690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boerhaave, Herman
+    birthdate: 1668
+    deathdate: 1738
+    gutenberg_agent_id: '6193'
+    url: http://www.gutenberg.org/2009/agents/6193
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Boerhaave
+description: ''
+gutenberg_issued: '2005-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15690'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Medicine -- Early works to 1800'
+title: Het Nut der Mechanistische Methode in de Geneeskunde
+url: http://www.gutenberg.org/ebooks/15690
